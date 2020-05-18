@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Git demo hello world");
         System.out.println("this is new added line");
         System.out.println("Hello this line is added by niru");
+        System.out.println("Hello");
     }
 }
